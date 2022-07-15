@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi, I’m Stas Bratanich
+
+👀 Interested in programming
+
+🌱 Currently learning B.Sc. in Computer Science
+
+📫 You can reach me via E-mail bstasb@gmail.com
+
+⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/
+
+📝 C/C++/Python - Data types, Control statements, Functions, Arrays, Pointers, Strings, Structures, Linked lists, Object Oriented Programming, Algorithms, Data Science
 
 <!--
 **StasBratanich/StasBratanich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
