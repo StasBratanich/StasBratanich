@@ -3,10 +3,8 @@
 ***
 
 **<p align="center">B.Sc. Computer Science student</p>**
-
-📫 You can reach me via E-mail bstasb@gmail.com
-
-⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/
+<p align="center">📫 You can reach me via E-mail bstasb@gmail.com</p>
+<p align="center">⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
