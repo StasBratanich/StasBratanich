@@ -10,7 +10,7 @@
 
 📝 C/C++/C#/JAVA/Python - Data types, Control statements, Functions, Arrays, Pointers, Strings, Structures, Linked lists, Object Oriented Programming, Algorithms, Data Science
 
-[![My Skills](https://skillicons.dev/icons?i=c,c++,c#,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,c++,cs,java,py,html,css)](https://skillicons.dev)
 
 <!--
 **StasBratanich/StasBratanich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
