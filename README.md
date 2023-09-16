@@ -1,8 +1,6 @@
-### 👋 Hi, I’m Stas Bratanich
+<h1 align="center">👋 Hi, I’m Stas</h1>
 
-👀 Interested in programming
-
-🌱 Currently learning B.Sc. in Computer Science
+<p align="center">B.Sc. Computer Science student</p>
 
 📫 You can reach me via E-mail bstasb@gmail.com
 
