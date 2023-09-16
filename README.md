@@ -8,8 +8,6 @@
 
 ⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/
 
-📝 C/C++/C#/JAVA/Python - Data types, Control statements, Functions, Arrays, Pointers, Strings, Structures, Linked lists, Object Oriented Programming, Algorithms, Data Science
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css)](https://skillicons.dev)
 
 <!--
