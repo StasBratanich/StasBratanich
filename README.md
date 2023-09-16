@@ -8,8 +8,11 @@
 
 ⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css" />
+  </a>
+</p>
 
 <!--
 **StasBratanich/StasBratanich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
