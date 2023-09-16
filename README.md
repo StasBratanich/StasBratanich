@@ -8,7 +8,7 @@
 
 ⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/
 
-📝 C/C++/Python - Data types, Control statements, Functions, Arrays, Pointers, Strings, Structures, Linked lists, Object Oriented Programming, Algorithms, Data Science
+📝 C/C++/C#/JAVA/Python - Data types, Control statements, Functions, Arrays, Pointers, Strings, Structures, Linked lists, Object Oriented Programming, Algorithms, Data Science
 
 <!--
 **StasBratanich/StasBratanich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
