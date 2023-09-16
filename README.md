@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I’m Stas</h1>
+
 ***
+
 <p align="center">B.Sc. Computer Science student</p>
 
 📫 You can reach me via E-mail bstasb@gmail.com
