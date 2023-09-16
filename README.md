@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,mysql" />
   </a>
 </p>
 
