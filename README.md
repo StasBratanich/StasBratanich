@@ -3,7 +3,7 @@
 ***
 
 **<p align="center">B.Sc. Computer Science student</p>**
-<p align="center">📫 You can reach me via E-mail - bstasb@gmail.com</p>
+<p align="center">📫 You can reach me via E-mail - <a href="mailto:bstasb@gmail.com">bstasb@gmail.com</a></p>
 <p align="center">⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/</p>
 
 <p align="center">
