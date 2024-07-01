@@ -2,7 +2,7 @@
 
 ***
 
-**<p align="center">B.Sc. Computer Science</p>**
+**<p align="center">Software Engineer and Android Developer</p>**
 <p align="center">📫 You can reach me via E-mail - <a href="mailto:bstasb@gmail.com">bstasb@gmail.com</a></p>
 <p align="center">⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/</p>
 
