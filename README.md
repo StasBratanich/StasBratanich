@@ -4,16 +4,18 @@
 
 **<p align="center">Software Engineer</p>**
 <p align="center">📫 You can reach me via E-mail - <a href="mailto:bstasb@gmail.com">bstasb@gmail.com</a></p>
-<p align="center">⬆️ LinkedIn - https://www.linkedin.com/in/stas-bratanich-computer-science/</p>
+<p align="center">⬆️ LinkedIn - <a href="https://www.linkedin.com/in/stas-bratanich-computer-science/" target="_blank">Stas Bratanich</a></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,mysql,kotlin,androidstudio&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,C++,C#,Java,Python,HTML,CSS,MySQL,Kotlin,Android&perline=5" />
   </a>
 </p>
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StasBratanich)](https://github.com/StasBratanich/github-readme-stats)
--->
+<p align="center">
+  Technologies I work with:
+</p>
 
-
+<p align="center">
+  <strong>C, C++, C#, Java, Python, HTML, CSS, MySQL, Kotlin, Android Studio</strong>
+</p>
