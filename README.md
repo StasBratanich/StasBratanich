@@ -19,3 +19,5 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,mysql,kotlin,androidstudio&perline=5" />
   </a>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stasbratanich)](https://github.com/stasbratanich/github-readme-stats)
