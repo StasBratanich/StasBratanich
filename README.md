@@ -7,15 +7,15 @@
 <p align="center">⬆️ LinkedIn - <a href="https://www.linkedin.com/in/stas-bratanich-computer-science/" target="_blank">Stas Bratanich</a></p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,mysql,kotlin,androidstudio&perline=5" />
-  </a>
-</p>
-
-<p align="center">
   Technologies I work with:
 </p>
 
 <p align="center">
   <strong>C, C++, C#, Java, Python, HTML, CSS, MySQL, Kotlin, Android Studio</strong>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,mysql,kotlin,androidstudio&perline=5" />
+  </a>
 </p>
