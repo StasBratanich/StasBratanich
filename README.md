@@ -20,6 +20,10 @@
   </a>
 </p>
 
+<a href="https://github.com/stasbratanich/github-readme-stats">
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazr](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbratanich&size_weight=0.5&count_weight=0.5&langs_count=15&layout=compact)a" />
+</a>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbratanich&size_weight=0.5&count_weight=0.5&langs_count=15&layout=compact)
 
 
