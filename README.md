@@ -7,7 +7,7 @@
 <p align="center">⬆️ LinkedIn - <a href="https://www.linkedin.com/in/stas-bratanich-computer-science/" target="_blank">Stas Bratanich</a></p>
 
 <p align="center">
-  Technologies I work with:
+  <strong>Technologies I work with:</strong>
 </p>
 
 <p align="center">
