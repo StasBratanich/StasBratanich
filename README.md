@@ -22,4 +22,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbratanich&size_weight=0.5&count_weight=0.5&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbratanich&layout=donut)](https://github.com/stasbratanich/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbratanich&layout=donut-vertical)](https://github.com/stasbratanich/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasbratanich&layout=pie)](https://github.com/stasbratanich/github-readme-stats)
