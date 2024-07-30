@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <strong>C, C++, C#, Java, Python, HTML, CSS, LavaScript, MySQL, Kotlin, React Native, Android Studio</strong>
+  <strong>C, C++, C#, Java, Python, HTML, CSS, LavaScript, MySQL, Kotlin, React Native, Android Studio, Firebase, MongoDB</strong>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,javascript,mysql,kotlin,react,androidstudio&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,javascript,mysql,kotlin,react,androidstudio, firebase, mongodb&perline=5" />
   </a>
 </p>
