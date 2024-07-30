@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <strong>C, C++, C#, Java, Python, HTML, CSS, MySQL, Kotlin, Android Studio</strong>
+  <strong>C, C++, C#, Java, Python, HTML, CSS, LavaScript, MySQL, Kotlin, React Native, Android Studio</strong>
 </p>
 
 <p align="center">
