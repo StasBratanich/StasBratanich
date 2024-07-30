@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,mysql,kotlin,react,androidstudio&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,javascript,mysql,kotlin,react,androidstudio&perline=4" />
   </a>
 </p>
