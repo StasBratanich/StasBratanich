@@ -2,7 +2,7 @@
 
 ***
 
-**<p align="center">Mobile Developer</p>**
+**<p align="center">Software Engineer</p>**
 <p align="center">📫 You can reach me via E-mail - <a href="mailto:bstasb@gmail.com">bstasb@gmail.com</a></p>
 <p align="center">⬆️ LinkedIn - <a href="https://www.linkedin.com/in/stas-bratanich-computer-science/" target="_blank">Stas Bratanich</a></p>
 
